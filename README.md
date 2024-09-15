@@ -1,4 +1,4 @@
-# Soul-Composer-
+# Soul-Composer (Release Date 2022) :
 An app that generates songs using artificial intelligence, where the AI creates lyrics and music and sings them with its own voice like a human.
 
 # Check the demo here :
